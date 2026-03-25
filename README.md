@@ -1,5 +1,6 @@
 # AI Question Generator
 
+> Developed as part of AIML First Semester Project
 ## 📌 Description
 This project generates questions automatically from a given paragraph using the T5 (Text-to-Text Transfer Transformer) pre-trained model. It demonstrates the use of Natural Language Processing (NLP) and deep learning for question generation tasks.
 
